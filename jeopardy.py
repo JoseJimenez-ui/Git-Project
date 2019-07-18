@@ -47,7 +47,7 @@ else:
     print("Sorry")
 print (type)
 print (answer)
-    
+#   message   
 # It's important to think about how specific Python's matching will be. If the user types "gorge" but the correct answer is "Gorge.", then the user will get the question wrong. Consider finding a way of making your program responsive to small variations in capitalization or punctuation.
 #     # names = ["gorge" ,"Gorge"]
 # def answer2(names):
